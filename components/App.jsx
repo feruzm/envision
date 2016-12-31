@@ -33,14 +33,14 @@ function App({ children, routes }) {
 
   return (
     <div>
-      <h1>Envision on Steem</h1>
+      <h1>Omen on Steem</h1>
       <a href={repoLink}>https://github.com/feruzm/envision</a>
       <nav>
         {generateMapMenu()}
       </nav>
       {children}
       <div style={{ color: '#A0A0A0', fontSize: '14px', marginTop: '50px' }}>
-        <a href="http://www.esteem.ws" className="extended-link">
+        <a href="https://github.com/feruzm" className="extended-link">
           Developed by <span className="link-style">Feruz M</span>
         </a>
       </div>

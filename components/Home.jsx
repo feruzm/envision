@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router';
 
 function Home() {
-  const repoReadmeLink = 'https://github.com/feruzm/envision#readme';
+  const repoReadmeLink = 'https://github.com/feruzm/omen#readme';
 
   return (
     <div>
